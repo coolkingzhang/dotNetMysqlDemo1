@@ -1,0 +1,11 @@
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.deps.json
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.runtimeconfig.json
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.runtimeconfig.dev.json
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.dll
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.pdb
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.csprojResolveAssemblyReference.cache
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.csproj.CoreCompileInputs.cache
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.AssemblyInfoInputs.cache
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.AssemblyInfo.cs
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.dll
+E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.pdb
