@@ -9,3 +9,15 @@ E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysq
 E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.AssemblyInfo.cs
 E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.dll
 E:\VSProjects\NETCORE\dotNetMysql\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.pdb
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.deps.json
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.runtimeconfig.json
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.runtimeconfig.dev.json
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.dll
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.pdb
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.csprojResolveAssemblyReference.cache
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.csproj.CoreCompileInputs.cache
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.AssemblyInfoInputs.cache
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.AssemblyInfo.cs
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.dll
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\obj\Debug\netcoreapp2.0\dotNetMysql.pdb
+C:\Users\QYH\Desktop\dotNetMysqlDemo1\dotNetMysql\bin\Debug\netcoreapp2.0\dotNetMysql.dll.config

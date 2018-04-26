@@ -2100,11 +2100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSProjects\\NETCORE\\dotNetMysql\\dotNetMysql\\dotNetMysql.csproj",
+      "projectUniqueName": "C:\\Users\\QYH\\Desktop\\dotNetMysqlDemo1\\dotNetMysql\\dotNetMysql.csproj",
       "projectName": "dotNetMysql",
-      "projectPath": "E:\\VSProjects\\NETCORE\\dotNetMysql\\dotNetMysql\\dotNetMysql.csproj",
+      "projectPath": "C:\\Users\\QYH\\Desktop\\dotNetMysqlDemo1\\dotNetMysql\\dotNetMysql.csproj",
       "packagesPath": "C:\\Users\\QYH\\.nuget\\packages\\",
-      "outputPath": "E:\\VSProjects\\NETCORE\\dotNetMysql\\dotNetMysql\\obj\\",
+      "outputPath": "C:\\Users\\QYH\\Desktop\\dotNetMysqlDemo1\\dotNetMysql\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

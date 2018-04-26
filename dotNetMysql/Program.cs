@@ -1,14 +1,16 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
 using System.Data;
+using System.Configuration;
 namespace dotNetMysql
 {
     class Program
     {
         static void Main(string[] args)
         {
-           // Console.WriteLine("Hello World!");
-            string conf = "server=127.0.0.1;user id=root;password=root;database=world;sslmode=None";
+            // Console.WriteLine("Hello World!");
+            //  string conf = "server=127.0.0.1;user id=root;password=root;database=world;sslmode=None";
+            string conf = ConfigurationManager.ConnectionStrings["MYSQL"].ConnectionString;
             using (MySqlConnection conn = new MySqlConnection(conf))
             {
                 
